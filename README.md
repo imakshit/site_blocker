@@ -1,13 +1,17 @@
 # site_blocker
-Desktop Application in Python
+**_Desktop Application in Python_**
 
-A windows application developed for blocking specific sites on the pc.
+A _windows application_ developed for blocking specific sites on the pc.
 
-requirements:
-administrative permissions,
-disable antivirus protection and firewall for the app to work
+**Requirements:**
+1. Administrative permissions
+2. Disable antivirus protection and firewall for the app to work efficiently
 
-for a safer side , save a copy of host file to undo the changes
+
+**Suggestion -**
+For a _safer side_ , save a copy of **host** file to undo the changes.
+
+#Snapshots of App
 
 
 ![Image of application](https://github.com/imakshit/site_blocker/blob/master/Screenshot.png)
