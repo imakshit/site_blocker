@@ -11,7 +11,7 @@ A _windows application_ developed for blocking specific sites on the pc.
 **Suggestion -**
 For a _safer side_ , save a copy of **host** file to undo the changes.
 
-#Snapshots of App
+**Snapshots of App**
 
 
 ![Image of application](https://github.com/imakshit/site_blocker/blob/master/Screenshot.png)
